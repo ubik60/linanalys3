@@ -1,9 +1,9 @@
-# Octave on mybinder.org
+# Octave jupyter i molnet med [mybinder.org](https://mybinder.org/).
 
+Starta jupyter i molnet genom klicka på följande länk: 
 [![Binder](https://mybinder.org/badge.svg)](https://github.com/ubik60/linanalys3.git)
 
 An example of using Octave on [mybinder.org](https://mybinder.org/).
 
-This shows you how to make Matlab code that works with [Octave](https://www.gnu.org/software/octave/) run on [mybinder.org](https://mybinder.org/).
-
-The [example notebook](index.ipynb) is taken from the [octave_kernel](https://github.com/Calysto/octave_kernel) repository.
+Exemplet [example notebook](index.ipynb) är lånat från
+[octave_kernel](https://github.com/Calysto/octave_kernel) repositoriet.
