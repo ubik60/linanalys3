@@ -5,5 +5,3 @@ Starta jupyter i molnet genom klicka på följande länk:
 
 Exemplet [example notebook](index.ipynb) är lånat från
 [octave_kernel](https://github.com/Calysto/octave_kernel) repositoriet.
-
-Uppgiftsfilerna har filändelse `.ipynb` och skall synas när ni startat jupyter.
