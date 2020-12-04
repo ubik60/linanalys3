@@ -2,3 +2,5 @@ gnuplot
 ghostscript
 octave
 octave-image
+octave-control
+octave-signal
